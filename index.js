@@ -1,0 +1,2 @@
+require('./js/login.js');
+require('./js/MapBlip.js');
